@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**r80545621-bot/r80545621-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there, I am Rahma!
+I am a 17-year-old passionate web developer from Egypt.
+I love building creative and useful web applications.
+- I am currently working on improving my Vanilla JS skills.
+- I am looking to collaborate on beginner-friendly open-source projects.
+- I am currently learning React and advanced CSS.
+### My Projects
+- [Journey Project (Arabic Habit Tracker)](https://r80545621-bot.github.io/Journey-Project/)
+- [Samurai Name Generator](https://r80545621-bot.github.io/Japanese-Vibe/)
+### Tech Stack 
+HTML | CSS | JavaScript
